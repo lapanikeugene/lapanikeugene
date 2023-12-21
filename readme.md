@@ -5,7 +5,6 @@
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lapanikeugene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="lapanikeugene" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lapanikeugene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="lapanikeugene" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lapanikeugene&theme=highcontrast&hide_border=true" alt="lapanikeugene" />
 </p>
 
